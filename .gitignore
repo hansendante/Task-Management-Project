@@ -1,4 +1,11 @@
+# Node modules
 node_modules/
+
+# Build output
 dist/
+
+# VSCode settings
 .vscode/
+
+# Log files
 *.log
